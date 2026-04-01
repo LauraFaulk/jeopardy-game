@@ -1,0 +1,23 @@
+body {
+    background-color: #000;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for now */
+    gap: 10px;
+    padding: 20px;
+}
+.card {
+    background-color: #060ce9;
+    border: 2px solid white;
+    padding: 20px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+}
+.card:hover {
+    background-color: #3339ff;
+}
