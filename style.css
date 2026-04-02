@@ -1,3 +1,12 @@
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    letter-spacing: 4px;
+    color: white;
+    text-shadow: 0 0 10px #060ce9, 0 0 20px #060ce9;
+    text-align: center;
+    margin-top: 20px;
+}
 body {
     background-color: #000;
     color: white;
