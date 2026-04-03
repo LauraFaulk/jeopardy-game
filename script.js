@@ -40,7 +40,7 @@ const jeopardyData = [
             { points: 100, q: "Which 1843 novel includes the line, Every idiot who goes about with Merry Christmas on his lips, should be boiled with his own pudding, and buried with a stake of holly through his heart?", a: "A Christmas Carol" },
             { points: 200, q: "What is the name of Harry Potter's owl?", a: "Hedwig" },
             { points: 300, q: "Mein Kampf is an autobiographical manifesto and military strategy guidebook, published in 1925-1926, and studied by militaries from many countries all over the world, written by which former military and political leader?", a: "Adolf Hitler" },
-            { points: 400, q: "Animal Farn, by George Orwell, is an allegory for the events in the Russian Revolution. The character of Napolean, a berkshire boar, represents which former cruel, totalitarian, dictator?", a: "Joseph Stalin" },
+            { points: 400, q: "Animal Farm, by George Orwell, is an allegory for the events in the Russian Revolution. The character of Napolean, a berkshire boar, represents which former cruel, totalitarian, dictator?", a: "Joseph Stalin" },
             { points: 500, q: "In the novel, The Wizard of Oz, what color are Dorothy's slippers?", a: "Silver" }
 	]
     },
