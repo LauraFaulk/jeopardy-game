@@ -1,11 +1,12 @@
 h1 {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 80px;
-    letter-spacing: 4px;
+    font-size: 12vw;
+    letter-spacing: 0.5px;
     color: white;
-    text-shadow: 0 0 10px #060ce9, 0 0 20px #060ce9;
+    text-shadow: 0 0 20px #060ce9, 0 0 40px #060ce9;
     text-align: center;
-    margin-top: 20px;
+    margin: 10px 0;
+    line-height: 1;
 }
 body {
     background-color: #000;
@@ -57,8 +58,8 @@ body {
 
 #score-board {
     font-family: 'Bebas Neue', sans-serif; /* Same font as the title */
-    font-size: 36px;                       /* Smaller than the 80px title */
-    color: gold;                           /* Classic Jeopardy score color */
+    font-size: 3rem;                       /* Smaller than the 80px title */
+    color: #FFFF00;                           /* Classic Jeopardy score color */
     letter-spacing: 2px;                   /* Slight spacing for readability */
     text-align: center;
     margin-bottom: 20px;
